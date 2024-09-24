@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf14742ec75f41209170920a888b8a5f, type: 3}
+  m_Name: EnemiesConfiguration
+  m_EditorClassIdentifier: 
+  _enemies:
+  - <Name>k__BackingField: Easy Enemy
+    <Enemy>k__BackingField: 0
+    <Health>k__BackingField: 50
+    <Prefab>k__BackingField: {fileID: 7639669412118256231, guid: 89d0c2de8d3ee5d479923b53409c13f1, type: 3}
+  - <Name>k__BackingField: Medium Enemy
+    <Enemy>k__BackingField: 1
+    <Health>k__BackingField: 100
+    <Prefab>k__BackingField: {fileID: 1443169712116980165, guid: 0ac6e3a5977d7d845997d3321dd4a138, type: 3}
+  - <Name>k__BackingField: Difficult Enemy
+    <Enemy>k__BackingField: 2
+    <Health>k__BackingField: 200
+    <Prefab>k__BackingField: {fileID: 5759169279519254220, guid: a8883fb8a4bc5744ea85553a74395aec, type: 3}

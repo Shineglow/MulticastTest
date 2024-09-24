@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cc0d476524c47f9982776400ae77f36, type: 3}
+  m_Name: MainConfiguration
+  m_EditorClassIdentifier: 
+  <PlayerPropertiesProgressionModelSo>k__BackingField: {fileID: 11400000, guid: a38a05184723abc42a5f595cc9324fb4, type: 2}
+  Properties: {fileID: 11400000, guid: fb7b8693fa59db44babe5351ceb4e475, type: 2}
+  <GeneralPlayerProperties>k__BackingField: {fileID: 11400000, guid: f96a832de25c8774bad622d6d71ba3a1, type: 2}
+  EnemiesConfiguration: {fileID: 11400000, guid: 30b3aa621180416429b0614a78ce8089, type: 2}
